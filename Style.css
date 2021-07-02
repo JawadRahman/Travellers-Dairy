@@ -1,0 +1,23 @@
+body{
+    background-color: khaki;
+}
+
+h1{
+    text-align: center;
+}
+.vlog{
+    
+    background-color: rgba(58, 231, 231, 0.973);
+    border: 2px solid black;
+    margin: 1%;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: justify;
+
+}
+p{
+    color: lightcoral;
+}
+span{
+    color: rgb(100, 92, 205);
+}
